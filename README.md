@@ -1,7 +1,8 @@
-# BD9A100MUV-EVK-001
+# BD9A100MUV-EVK-001 Design Resource Repository
 * Hardware Design Files and Documentation for the ROHM BD9A100MUV-EVK-001 EVK
 
-Description: 
+----
+### Description: 
 * BD9A100MUV is a synchronous buck switching regulator with built-in low on-resistance power MOSFETs. 
 * It is capable of providing current up to 1A.
 * The SLLMTM control provides excellent efficiency characteristics in light-load conditions which make the product ideal for equipment and devices that demand minimal standby power consumption. 
