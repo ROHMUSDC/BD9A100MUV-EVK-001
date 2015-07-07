@@ -1,7 +1,4 @@
-# BD9A100MUV-EVK-001
-Hardware Design Files and Documentation for the ROHM BD9A100MUV-EVK-001 EVK
-
-# DISCLAIMER
+DISCLAIMER
 
 This Technical Data is protected under copyright laws.
 
@@ -22,6 +19,7 @@ the only actual performance specifications.
 ROHM shall not be responsible for ensuring proper application on all computer systems.
 This Technical Data is provided AS IS. ROHM makes no guarantees, either implicitly or explicitly, 
 regarding its usability, functionality, accuracy, merchantability, or fitness for a specific purpose.
+
 
 In addition, you shall take full responsibility for the use of any information acquired from this Technical Data. 
 
