@@ -12,8 +12,8 @@
 
 ----
 ### Repository Contents
-* "BD9A100MUV-EVK-001_Technical_Data" Folder: Contains Board, Gerber, and Schematic information for this EVK Board
-* "Documentation" Folder: Contains Both Japanese and English versions of the User's Manual
+* "Design Files" Folder: Contains Board, Gerber, and Schematic information for this EVK Board
+* "User Guide" Folder: Contains Both Japanese and English versions of the User's Manual
 
 ----
 ### DISCLAIMER
